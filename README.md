@@ -1,11 +1,12 @@
-# react-mobx-firebase-authentication
+# react-mobx-firebase-authentication (TypeScript)
 
-* Found in [Taming the State in React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
-* [Live](https://react-firebase-authentication.wieruch.com/)
+
+* Forked from [https://github.com/rwieruch/react-mobx-firebase-authentication](https://github.com/rwieruch/react-mobx-firebase-authentication)
 
 ## Features
 
 * uses:
+  * Typescript 2.7.1
   * React (create-react-app)
   * firebase 4.3.1
   * react-router 4.2.0
@@ -21,10 +22,10 @@
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-mobx-firebase-authentication.git`
-* `cd react-mobx-firebase-authentication`
-* `npm install`
-* `npm start`
+* `git clone https://github.com/amirhouieh/react-mobx-firebase-authentication`
+* `cd react-mobx-firebase-authentication-typescript`
+* `yarn install`
+* `yarn start`
 * visit http://localhost:3000/
 * Use your own Firebase Credentials
 
